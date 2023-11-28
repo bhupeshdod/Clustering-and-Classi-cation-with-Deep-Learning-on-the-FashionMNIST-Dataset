@@ -22,7 +22,7 @@ Clustering: Clustering techniques, including DBScan and K-means, were evaluated.
 t-Distributed Stochastic Neighbor Embedding (t-SNE): t-SNE was applied to reduce the dimensionality of the encoded features to two components. The results were visualized alongside the original labels (y_test).
 Visual Comparison: t-SNE results were also visualized with DBScan and K-means labels to understand how different clustering methods group data points.
 
-![image](https://github.com/bhupeshdod/Clustering-and-Classification-with-Deep-Learning-on-the-FashionMNIST-Dataset/assets/141383468/a8829e05-8c40-4a1c-88f1-bf40fc6ab973
+![image](https://github.com/bhupeshdod/Clustering-and-Classification-with-Deep-Learning-on-the-FashionMNIST-Dataset/assets/141383468/a8829e05-8c40-4a1c-88f1-bf40fc6ab973)
 
 | Label | Fashion Item             |
 |-------|--------------------------|
